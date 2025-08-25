@@ -14,8 +14,7 @@ define Package/rd05a1
   SECTION:=utils
   CATEGORY:=ROOter
   SUBMENU:=Router Specific
-  DEPENDS:=+ath9k-htc-firmware +kmod-ath10k \
-	+kmod-ath9k-htc
+  DEPENDS:=
   TITLE:=Install scripts for RD05A1
   PKGARCH:=all
 endef
